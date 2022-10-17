@@ -1,8 +1,22 @@
 # Table of contents
 
 * [README.md](README.md)
-
-## code
-
-* [Python](code/python.md)
-* [Page 1](code/page-1.md)
+* [Python学习笔记](python-xue-xi-bi-ji/README.md)
+  * [01 Python简介](python-xue-xi-bi-ji/01-python-jian-jie.md)
+  * [02 Python优缺点](python-xue-xi-bi-ji/02-python-you-que-dian.md)
+  * [03 Python2和Python3的介绍](python-xue-xi-bi-ji/03-python2-he-python3-de-jie-shao.md)
+  * [04 命名规则](python-xue-xi-bi-ji/04-ming-ming-gui-ze.md)
+  * [05 常用关键字](python-xue-xi-bi-ji/05-chang-yong-guan-jian-zi.md)
+  * [06 Python中注释](python-xue-xi-bi-ji/06-python-zhong-zhu-shi.md)
+  * [07 数据类型](python-xue-xi-bi-ji/07-shu-ju-lei-xing.md)
+  * [08 公共方法](python-xue-xi-bi-ji/08-gong-gong-fang-fa.md)
+  * [09 参数](python-xue-xi-bi-ji/09-can-shu.md)
+  * [10 面向对象(OOP)基本概念](python-xue-xi-bi-ji/10-mian-xiang-dui-xiang-oop-ji-ben-gai-nian.md)
+  * [11 面向对象基础语法](python-xue-xi-bi-ji/11-mian-xiang-dui-xiang-ji-chu-yu-fa.md)
+  * [12 类的封装](python-xue-xi-bi-ji/12-lei-de-feng-zhuang.md)
+  * [13 继承](python-xue-xi-bi-ji/13-ji-cheng.md)
+  * [14 多态](python-xue-xi-bi-ji/14-duo-tai.md)
+  * [15 类属性和类方法](python-xue-xi-bi-ji/15-lei-shu-xing-he-lei-fang-fa.md)
+  * [16 单例](python-xue-xi-bi-ji/16-dan-li.md)
+  * [17 捕获异常](python-xue-xi-bi-ji/17-bu-huo-yi-chang.md)
+  * [18 文件的基本操作](python-xue-xi-bi-ji/18-wen-jian-de-ji-ben-cao-zuo.md)
